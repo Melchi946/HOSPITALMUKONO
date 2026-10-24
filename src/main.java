@@ -1,6 +1,6 @@
 public class main {
     static void main(String[] args) {
-        doctor doc = new doctor("12CD","Cardiology",
+        doctor doc = new doctor("25PO","Cardiology",
                 10, "Cardiologist");
         nurse nur = new nurse("10BG","Emergency",
                 15,"Night");
