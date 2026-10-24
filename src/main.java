@@ -6,7 +6,7 @@ public class main {
                 15,"Night");
         LabTechnician lb = new LabTechnician("52EF","Laboratory",
                 20);
-        pharmacist ph =new pharmacist("15CA","Pharmacy",22);
+        pharmacist ph =new pharmacist("21EA","Pharmacy",22);
 
         System.out.println("***** DOCTOR *****");
         doc.displayStaffInfo();
