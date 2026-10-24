@@ -5,7 +5,7 @@ public class main {
         nurse nur = new nurse("10BG","Emergency",
                 15,"Night");
         LabTechnician lb = new LabTechnician("52EF","Laboratory",
-                10);
+                20);
         pharmacist ph =new pharmacist("15CA","Pharmacy",22);
 
         System.out.println("***** DOCTOR *****");
