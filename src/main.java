@@ -3,7 +3,7 @@ public class main {
         doctor doc = new doctor("25PO","Cardiology",
                 10, "Cardiologist");
         nurse nur = new nurse("10BG","Emergency",
-                15,"Night");
+                15,"8AM-4PM");
         LabTechnician lb = new LabTechnician("52EF","Laboratory",
                 10);
         pharmacist ph =new pharmacist("15CA","Pharmacy",22);
